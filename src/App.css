@@ -1,0 +1,16 @@
+
+.row div{
+    height: 100%;
+    border: solid 1px black;
+}
+
+input{
+    margin-top: 5%;
+}
+
+
+@media (max-width: 576px) { 
+    .row div {
+        height: 50%;
+    } 
+}

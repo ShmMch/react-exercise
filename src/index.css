@@ -1,0 +1,20 @@
+
+html, body {
+    min-height: 100% !important;
+    height: 100%;
+}
+
+#root{
+    height: 90%;
+}
+
+header, footer{
+    width: -webkit-fill-available;
+    height: 5%;
+    background: #ffad33;
+}
+
+footer{
+    position: absolute;
+    bottom:0;
+}
